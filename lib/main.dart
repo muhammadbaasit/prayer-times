@@ -5,17 +5,6 @@ void main() {
 }
 
 
-
-class MyAppTwo extends StatefulWidget{
- 
-  @override
-  State<StatefulWidget> createState() {
-    // TODO: implement createState
-    throw UnimplementedError();
-  }
-  
-}
-
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
